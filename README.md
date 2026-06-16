@@ -105,4 +105,4 @@ Through this project I learned:
 
 ## Author
 Snehal Vhasure | 
-Full Stack Developer | AI Enthusiast | Machine Learning Learner
+Full Stack Developer | AI Enthusiast | GenAI and AgenticAI Learner
