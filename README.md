@@ -24,7 +24,7 @@ The model is trained on the MNIST dataset and can recognize digits (0–9) from 
 * OpenCV
 * NumPy
 * Matplotlib
-* 
+  
 ## Dataset
 
 The project uses the MNIST Handwritten Digit Dataset.
@@ -104,5 +104,5 @@ Through this project I learned:
 * Real-time prediction systems
 
 ## Author
-Snehal Vhasure
+Snehal Vhasure | 
 Full Stack Developer | AI Enthusiast | Machine Learning Learner
