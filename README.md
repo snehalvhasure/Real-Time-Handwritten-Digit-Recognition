@@ -68,9 +68,11 @@ Output Layer:
 
 ## Installation
 Clone the repository:
-git clone https://github.com/yourusername/mnist-digit-recognition.git
+git clone https://github.com/snehalvhasure/Real-Time-Handwritten-Digit-Recognition
+
 Navigate to project directory:
 cd mnist-digit-recognition
+
 Install dependencies:
 pip install tensorflow opencv-python numpy matplotlib
 
