@@ -82,15 +82,6 @@ Test Accuracy: 98%+
 Predicted Digit: 5
 Confidence: 0.99
 
-## Future Improvements
-
-* Convolutional Neural Network (CNN) implementation
-* Custom handwritten digit recognition
-* CCTV/IP camera support
-* Model deployment using Flask
-* Real-time digit detection with bounding boxes
-* Mobile application integration
-
 ## Learning Outcomes
 
 Through this project I learned:
@@ -102,6 +93,17 @@ Through this project I learned:
 * Computer Vision using OpenCV
 * Model evaluation techniques
 * Real-time prediction systems
+
+## Limitations Identified
+
+During implementation several limitations were observed:
+
+- ANN loses spatial information after flattening the image.
+- Pixel relationships are not preserved.
+- Real-world webcam images differ significantly from MNIST images.
+- Performance decreases when background noise is present.
+- ANN is not ideal for advanced computer vision applications.
+These observations motivated the development of a CNN-based version of the project.
 
 ## Author
 Snehal Vhasure | 
